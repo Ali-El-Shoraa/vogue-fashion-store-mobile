@@ -1,5 +1,6 @@
 {
-  "name": "fashion-store",
+  "name": "Vogue Store",
+  "displayName": "Vogue Store",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
